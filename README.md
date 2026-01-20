@@ -82,9 +82,13 @@ python paper_scraper_oop.py -c cvpr -y 2025 -m full -w 20
 
 ## 可视化展示
 
-| 动态论文分布图 | 词云图 |
-| :---: | :---: |
-| ![Category](category.png) | ![Wordcloud](wordcloud.png) |
+| 动态论文分布图 |
+| :---: |
+| ![Category](category.png) |
+
+| 词云图 |
+| :---: |
+| ![Wordcloud](wordcloud.png) |
 
 | 动态作者产出统计图 |
 | :---: |
