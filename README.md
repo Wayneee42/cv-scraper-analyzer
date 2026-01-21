@@ -47,6 +47,14 @@
 2. **安装依赖**
    ```bash
    pip install -r requirements.txt
+   '''
+   部分依赖包：
+   streamlit: Web 应用框架
+   plotly: 交互式绘图
+   beautifulsoup4: HTML 解析
+   requests: 网络请求
+   wordcloud: 词云生成
+   '''
    ```
 
 ## 使用说明
